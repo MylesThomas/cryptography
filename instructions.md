@@ -564,3 +564,18 @@ Run the code: Ctrl-Alt-N
 
 Notes:
 - Not finished...
+
+### Git
+
+Now that you have completed this youtube tutorial, update the cryptography Git/Github repositories:
+
+```sh
+cd cryptography
+git status
+git add .
+git commit -m "Completed 'Fireship - 7 Cryptography Concepts EVERY Developer Should Know'"
+git push -u origin main
+git status
+git log --oneline
+q
+```
